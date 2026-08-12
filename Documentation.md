@@ -65,9 +65,6 @@ The program handles invalid input using `InputMismatchException`.
 ### Guess Feedback
 ![Guess Feedback](screenshots/guess-feedback.png)
 
-### finish attempts
-![Correct Guess](screenshots/finish_attempts
-.png)
 
 ### Invalid Input
 ![Invalid Input](screenshots/invalid-input.png)
