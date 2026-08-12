@@ -62,7 +62,7 @@ The program handles invalid input using `InputMismatchException`.
 ### Game Start
 ![Game Start](screenshots/game-start.png)
 
-### Guess Feedback
+### finish attempts
 ![Guess Feedback](screenshots/guess-feedback.png)
 
 ### Correct Guess
