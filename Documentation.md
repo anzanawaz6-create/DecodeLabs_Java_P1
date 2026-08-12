@@ -62,10 +62,10 @@ The program handles invalid input using `InputMismatchException`.
 ### Game Start
 ![Game Start](screenshots/game-start.png)
 
-### finish attempts
+### Guess Feedback
 ![Guess Feedback](screenshots/guess-feedback.png)
 
-### Correct Guess
+### finish attempts
 ![Correct Guess](screenshots/finish_attempts
 .png)
 
